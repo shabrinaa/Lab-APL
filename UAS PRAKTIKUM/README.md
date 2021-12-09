@@ -1,7 +1,7 @@
-## Nama   : Shabrina Miftahul Aida
-## NPM    : 1908107010027
-## Kelas  : Arsitektur Perangkat Lunak A
-## Kasus  : Shopee
+###### Nama   : Shabrina Miftahul Aida
+###### NPM    : 1908107010027
+###### Kelas  : Arsitektur Perangkat Lunak A
+###### Kasus  : Shopee
 
 Pattern yang dikerjakan:
 1. Strategy Pattern : Digunakan dalam pemilihan jenis kurir Shopee.
